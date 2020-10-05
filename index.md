@@ -6,7 +6,7 @@ This is Progrecity's development project documentation site. You'll find importa
 ### Tools
 
 - [Jira](https://progrecity.atlassian.net)
-- [Abbilon @ Slack](http://abbilon.slack.com)
+- [Abbilon @ Slack](https://abbilon.slack.com)
 - [Abbilon @ Github](https://github.com/orgs/Abbilon/dashboard)
 
 ### Repositories
