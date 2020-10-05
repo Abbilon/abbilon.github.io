@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Progrecity Dev Site.
 
-You can use the [editor on GitHub](https://github.com/Abbilon/abbilon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is Progrecity's development project documentation site. You'll find important information concerning tools, deployment environments and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Jira](https://progrecity.atlassian.net)
+- [Abbilon & Github](https://github.com/orgs/Abbilon/dashboard)
 
-```markdown
-Syntax highlighted code block
+### Repositories
 
-# Header 1
-## Header 2
-### Header 3
+- [Progrecity Frontend](https://github.com/Abbilon/progrecity)
+- [Progrecity API](https://github.com/Abbilon/progrecity-frontend)
+- [Progrecity DevOps](https://github.com/Abbilon/progrecity-devops)
 
-- Bulleted
-- List
+### Deployment environments
 
-1. Numbered
-2. List
+#### Development
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abbilon/abbilon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Frontend](https://dev.latindollarclub.com)
+- [API](https://dev.api.latindollarclub.com)
