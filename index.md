@@ -25,4 +25,4 @@ To access this private GitHub repositories, permissions must be given.
 - [API](https://dev.api.latindollarclub.com)
 - [API docs](https://dev.api.latindollarclub.com/redoc/)
 - [API OpenAPI spec and tester](https://dev.api.latindollarclub.com/swaggerui/)
-- [MongoDB Explorer](http://dev.latindollarclub.com:28081) (credentials required, ask them in Slack)
+- [MongoDB Explorer](https://mongo.latindollarclub.com) (credentials required, ask them in Slack)
